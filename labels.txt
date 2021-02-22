@@ -1,0 +1,4 @@
+BACKGROUND
+FFP2
+No_mask
+Improper
